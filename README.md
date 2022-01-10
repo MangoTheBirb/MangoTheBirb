@@ -1,9 +1,9 @@
 <h2> Hi, I’m Andrew </h2>
 <img src="Logo.png" width="30%" height="30%" align="right">
 
-I'm a big nerd and love anything tech. I am especially passionate about FPV drones, R/C cars and planes, electronics, and robotics. I'm currently studying computing at Queen's University.
+I'm a big nerd and love anything tech. I am especially passionate about FPV drones, R/C cars and planes, electronics, and robotics. I'm currently studying computing at Queen's University and am part of the Queen's Knights robomaster team in the AIM division.
 
-I have recently begun working on using a raspberry pi with a 4g cellular HAT and a camera to control an R/C car and make rover that can go anywhere with a cell signal.
+My most recent project has been working on using a raspberry pi with a 4g cellular HAT and a camera to control an R/C car and make rover that can go anywhere with a cell signal.
 
 If you want to reach out, you can connect with me at:
 <ul>
