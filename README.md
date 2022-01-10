@@ -1,4 +1,4 @@
-![]( Logo.png)
+<img src="Logo.png" width="50%" height="50%">
 
 - 👋 Hi, I’m Andrew Terry
 - 👀 I’m interested in ...
