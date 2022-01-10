@@ -9,6 +9,7 @@ If you want to reach out, you can connect with me at:
 <ul>
   <li> Discord @MangoTheBird#9910 </li>
   <li> <a href="mailto:andrew35terry@.com">andrew35terry@gmail.com</a> </li>
+  <li> <a href="https://www.linkedin.com/in/andrew-terry-364ba2206/"> LinkedIn </a> </li>
   <li> <a href="https://www.instagram.com/mangoisabird/">Instagram</a> </li>
   <li> <a href = "https://www.facebook.com/profile.php?id=100011979163953"> Facebook </a> </li>
 </ul>
