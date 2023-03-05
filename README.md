@@ -3,8 +3,6 @@
 
 I'm a big nerd and love anything tech. I am especially passionate about FPV drones, R/C cars and planes, robotics and really anything else electronic. I'm currently studying computing at Queen's University.
 
-My most recent project has been working on using a Raspberry Pi with a 4g cellular HAT and a camera to control an R/C car so that I can explore anywhere with a cell signal.
-
 If you want to reach out, you can connect with me at:
 <ul>
   <li> Discord, MangoTheBird#9910 </li>
